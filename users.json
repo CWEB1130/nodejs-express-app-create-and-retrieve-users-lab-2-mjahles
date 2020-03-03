@@ -1,7 +1,1 @@
-[{
-    "firstName":"John",
-    "lastName":"Doe",
-    "email":"jdoe@dunwoody.edu",
-    "password":"password01"
-  }
-]
+[{"firstName":"John","lastName":"Doe","email":"jdoe@dunwoody.edu","password":"password01"},{"firstName":"Noah","lastName":"Smith","email":"Nsmith@example.com","password":"askldfja;sd;fklasjdfasjld;fjklasdf"}]
